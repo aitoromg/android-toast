@@ -1,0 +1,3 @@
+[submodule "toasterLibrary"]
+	path = toasterLibrary
+	url = https://github.com/aitoromg/toasterLibrary
